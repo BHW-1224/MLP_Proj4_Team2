@@ -51,4 +51,5 @@ To reproduce the Final Submission (Training + Inference Server), follow these st
 5.  Run all cells. This script trains the LightGBM model using the 22 selected features and starts the `kaggle_evaluation` inference server.
 
 ## Appendix
-launch bonus.py
+1. launch bonus.py
+2. You can see top 10 Feature Importance, KOSPI Prediction, and results.
