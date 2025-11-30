@@ -49,3 +49,6 @@ To reproduce the Final Submission (Training + Inference Server), follow these st
 3.  Click "Add input" on the right panel, search for **"Hull Tactical Market Prediction"**, and add the dataset.
 4.  **Ensure Internet Access is turned OFF.** (The submission will fail if the internet is on).
 5.  Run all cells. This script trains the LightGBM model using the 22 selected features and starts the `kaggle_evaluation` inference server.
+
+## Appendix
+launch bonus.py
